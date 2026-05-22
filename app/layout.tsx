@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: '%s | TinyHomeInsurance.co.nz',
   },
   description: 'Specialist insurance for tiny homes, tiny houses on wheels (THOW), container homes, and off-grid dwellings in New Zealand. NZ-licensed advisers match you with the right cover within one business day.',
-  metadataBase: new URL('https://tinyhomeinsurance.co.nz'),
+  metadataBase: new URL('https://www.tinyhomeinsurance.co.nz'),
   alternates: {
     canonical: '/',
   },
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: 'TinyHomeInsurance.co.nz',
     type: 'website',
     locale: 'en_NZ',
-    url: 'https://tinyhomeinsurance.co.nz',
+    url: 'https://www.tinyhomeinsurance.co.nz',
     title: 'TinyHomeInsurance.co.nz — Specialist Insurance for Tiny Homes in NZ',
     description: 'Specialist insurance for tiny homes, THOWs, container homes, and off-grid dwellings in New Zealand. NZ-licensed advisers, free quote matching.',
     images: [

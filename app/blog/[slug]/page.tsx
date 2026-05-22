@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       title: post.title,
       description: post.excerpt,
       type: 'article',
-      url: `https://tinyhomeinsurance.co.nz/blog/${post.slug}/`,
+      url: `https://www.tinyhomeinsurance.co.nz/blog/${post.slug}/`,
       images: post.image ? [{ url: post.image, width: 1200, height: 630, alt: post.title }] : [],
       publishedTime: post.date,
       authors: ['TinyHomeInsurance.co.nz Editorial Team'],

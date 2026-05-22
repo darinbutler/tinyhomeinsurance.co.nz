@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tinyhomeinsurance.co.nz/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
   <!-- Coverage -->
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/building-structure/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/contents-insurance/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/transit-towing-cover/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/public-liability/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/off-grid-systems/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/loss-of-use/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/coverage/landlord-insurance/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/building-structure/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/contents-insurance/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/transit-towing-cover/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/public-liability/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/off-grid-systems/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/loss-of-use/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/coverage/landlord-insurance/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- Core pages -->
-  <url><loc>https://tinyhomeinsurance.co.nz/faq/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/compare/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/contact/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/about/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/faq/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/compare/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/contact/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/about/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
   <!-- SEO Landing Pages -->
-  <url><loc>https://tinyhomeinsurance.co.nz/tiny-home-on-wheels/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/container-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/off-grid-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/tiny-home-insurance-cost/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/tiny-home-on-wheels/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/container-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/off-grid-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/tiny-home-insurance-cost/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   <!-- Blog -->
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-insurance-nz-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/thow-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/off-grid-tiny-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-contents-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-renting-airbnb-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/container-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-public-liability-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/diy-tiny-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-earthquake-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/campground-tiny-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-building-consent-exemption-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/lifestyle-block-tiny-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-insurance-cost-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/nz-tiny-home-communities-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/nzta-rules-tiny-home-wheels-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-financing-mortgage-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/healthy-homes-standards-tiny-home-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/best-regions-tiny-home-living-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/nz-tiny-home-building-regulations-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/blog/tiny-home-total-loss-claim-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-insurance-nz-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/thow-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/off-grid-tiny-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-contents-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-renting-airbnb-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/container-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-public-liability-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/diy-tiny-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-earthquake-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/campground-tiny-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-building-consent-exemption-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/lifestyle-block-tiny-home-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-insurance-cost-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/nz-tiny-home-communities-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/nzta-rules-tiny-home-wheels-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-financing-mortgage-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/healthy-homes-standards-tiny-home-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/best-regions-tiny-home-living-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/nz-tiny-home-building-regulations-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-total-loss-claim-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   <!-- Legal -->
-  <url><loc>https://tinyhomeinsurance.co.nz/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://tinyhomeinsurance.co.nz/disclaimer/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/disclaimer/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>

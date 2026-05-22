@@ -8,4 +8,4 @@ Disallow: /_next/
 # Crawl delay for polite bots
 Crawl-delay: 1
 
-Sitemap: https://tinyhomeinsurance.co.nz/sitemap.xml
+Sitemap: https://www.tinyhomeinsurance.co.nz/sitemap.xml
