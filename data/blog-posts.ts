@@ -1509,42 +1509,47 @@ Add it all up and it becomes clear: the solar system in your tiny home may repre
 
 When you take out insurance on a tiny home — whether it's a specialist policy or a modified standard policy — the solar system often falls into an uncomfortable gap. Here's why:
 
-**Listed as "outbuilding appurtenant" or not listed at all.** Some policies include an allowance for outbuildings or external structures but don't specifically mention solar panels. This creates ambiguity — are panels an outbuilding, a fitting, or something else entirely?
+Some policies include an allowance for outbuildings or external structures but don't specifically mention solar panels — listing them as "outbuilding appurtenant" or omitting them entirely. This creates ambiguity around whether panels are an outbuilding, a fitting, or something else.
 
-**Sub-limits of $5,000–$10,000 on "external equipment."** Many standard home policies include a sub-limit on external equipment, aerial systems, or satellite dishes that catches solar panels. If your system is worth $18,000, a $5,000 sub-limit leaves you dangerously exposed.
+Many standard home policies include a sub-limit of $5,000–$10,000 on external equipment, aerial systems, or satellite dishes, and solar panels fall into that catch. If your system is worth $18,000, a $5,000 sub-limit leaves you dangerously exposed.
 
-**Treated as a "motor vehicle accessory" on tiny homes on wheels (THOWs).** This is where THOW owners face a unique problem. Because a tiny home on wheels is often classified alongside trailers and caravans, some insurers treat the solar installation as an accessory to a vehicle — and vehicle accessories are typically excluded from home insurance while being poorly defined in vehicle policies. You can end up with no clear coverage.
+THOW owners face a particular problem here. Because a tiny home on wheels is often classified alongside trailers and caravans, some insurers treat the solar installation as a motor vehicle accessory — and vehicle accessories are typically excluded from home insurance while being poorly defined in vehicle policies. You can end up with no clear coverage.
 
-**Treated as "business equipment."** If you use your off-grid system to power a home business (charging laptops, running equipment), some insurers may argue that part of the system qualifies as business equipment — which requires a commercial policy. This is a grey area worth clarifying upfront.
+If you use your off-grid system to power a home business (charging laptops, running equipment), some insurers may argue that part of the system qualifies as business equipment — which requires a commercial policy. This is a grey area worth clarifying upfront.
 
-**No mention of batteries at all.** Until recently, home battery storage was rare enough that many policy wordings simply didn't contemplate it. An older policy may cover "fixed appliances" without specifying whether a 10kWh battery bank is an appliance, a structure, or something else.
+Until recently, home battery storage was rare enough that many policy wordings simply didn't contemplate it. An older policy may cover "fixed appliances" without specifying whether a 10kWh battery bank is an appliance, a structure, or something else.
 
 ## What Comprehensive Solar Cover Should Include
 
 A policy that genuinely covers your off-grid solar system should explicitly include:
 
-**Panel damage from:**
+### Panel damage
+
 - Hail and storm (including extreme weather events — check if cyclone/storm surge is excluded in your region)
 - Falling objects (branches, debris)
 - Theft and vandalism — panels are unfortunately a target, especially in rural areas
 - Accidental damage during reinstallation or adjustment
 
-**Battery system cover:**
+### Battery system cover
+
 - Fire damage from battery thermal events — this needs to be explicit. Some policies have vague "electrical damage" exclusions that could be applied to a battery fire
 - Physical damage from accidental impact
 - Theft (lithium battery packs have a second-hand market, making them theft targets)
 - Water ingress damage
 
-**Inverter and charge controller damage:**
+### Inverter and charge controller damage
+
 - Electrical surge and lightning strike damage — critical in rural off-grid settings
 - Accidental damage during maintenance
 - Manufacturing failure (check if your manufacturer warranty overlaps with policy cover here)
 
-**Wiring and balance-of-system damage:**
+### Wiring and balance-of-system damage
+
 - Rodent damage to wiring (a very real risk in rural settings)
 - Corrosion damage (relevant for coastal locations)
 
-**Reinstallation labour costs:**
+### Reinstallation labour costs
+
 - If panels need to be removed after storm damage, labour costs for a qualified electrician to reinstall can be substantial. Check whether your policy covers reinstallation costs or only the replacement hardware.
 
 ## The Battery Fire Risk Question
@@ -1565,15 +1570,25 @@ This matters for insurance because some insurers have concerns about battery sto
 
 The NZ tiny home off-grid community has developed a fairly consistent set of preferred equipment:
 
-**Solar panels:** Most full-time off-grid tiny homes use between **1kW and 4kW** of panel capacity. Popular brands include Trina Solar, Longi, REC, and SunPower for premium builds.
+### Solar panels
 
-**Battery banks:** **10kWh to 20kWh** of LiFePO4 capacity is common for full-time living, with some larger systems going to 30kWh+ for those in cloudy regions or with high power demands.
+Most full-time off-grid tiny homes use between **1kW and 4kW** of panel capacity. Popular brands include Trina Solar, Longi, REC, and SunPower for premium builds.
 
-**Inverter/chargers:** **Victron Energy** products dominate the NZ off-grid market — the MultiPlus and Quattro inverter/charger ranges are almost ubiquitous in quality off-grid tiny home builds. Fronius and SMA are alternatives.
+### Battery banks
 
-**Monitoring:** Victron's Cerbo GX and CCGX units feed real-time system data to the VictronConnect app. This kind of monitoring is a genuine safety asset — problems can be detected before they become serious.
+A capacity of **10kWh to 20kWh** of LiFePO4 is common for full-time living, with some larger systems going to 30kWh+ for those in cloudy regions or with high power demands.
 
-**Backup generation:** Many off-grid tiny home owners have a petrol or diesel generator for winter top-ups. Generators also need to be declared to your insurer — a running generator has its own fire and theft risk profile.
+### Inverter/chargers
+
+Victron Energy products dominate the NZ off-grid market — the MultiPlus and Quattro inverter/charger ranges are almost ubiquitous in quality off-grid tiny home builds. Fronius and SMA are alternatives.
+
+### Monitoring
+
+Victron's Cerbo GX and CCGX units feed real-time system data to the VictronConnect app. This kind of monitoring is a genuine safety asset — problems can be detected before they become serious.
+
+### Backup generation
+
+Many off-grid tiny home owners have a petrol or diesel generator for winter top-ups. Generators also need to be declared to your insurer — a running generator has its own fire and theft risk profile.
 
 ## Getting the Sum Insured Right
 
@@ -1625,17 +1640,12 @@ A: This depends on your specific policy. Many building policies pause cover duri
 
 The statistics from the THOW (tiny home on wheels) community consistently show that most physical damage to tiny homes occurs not while they're sitting on site, but during the moments they're moving. The reasons are well understood:
 
-**Road vibration at sustained highway speeds** creates constant stress on joints, fixings, and structures that were never designed to be driven at 90km/h for hours. Tiny homes are built like houses, not like vehicles. Window frames flex, cabinetry can loosen, and roofing materials can develop stress cracks.
-
-**Sudden braking and lateral forces** — sharp corners, emergency stops, or evasive manoeuvres create forces that your tiny home's structure wasn't engineered to handle. Even a competent driver will experience moments where the load behind shifts or stresses.
-
-**Wind buffeting at speed** — at 90km/h, a structure with the profile of a tiny home creates significant aerodynamic forces. Roof cladding, fascia, guttering, and any protruding features are all at risk. High-sided structures in crosswind conditions are particularly vulnerable.
-
-**Low bridge strikes** — one of the most common catastrophic damage events. A driver fails to check the route for height restrictions, or the actual height of the home (including roof-mounted items like skylights or solar panels) is underestimated.
-
-**Overhanging tree strikes** — rural routes in particular have trees that overhang the carriageway. A branch at the edge of the legal height limit can cause significant damage to roofing and fascia.
-
-**Tow vehicle inadequacy** — using a tow vehicle that's technically underrated for the load creates instability, longer braking distances, and greater risk of sway at speed.
+- Road vibration at sustained highway speeds creates constant stress on joints, fixings, and structures that were never designed to be driven at 90km/h for hours. Tiny homes are built like houses, not like vehicles — window frames flex, cabinetry can loosen, and roofing materials can develop stress cracks.
+- Sudden braking and lateral forces from sharp corners, emergency stops, or evasive manoeuvres create forces that your tiny home's structure wasn't engineered to handle. Even a competent driver will experience moments where the load behind shifts or stresses.
+- Wind buffeting at speed — at 90km/h, a structure with the profile of a tiny home creates significant aerodynamic forces. Roof cladding, fascia, guttering, and any protruding features are all at risk. High-sided structures in crosswind conditions are particularly vulnerable.
+- Low bridge strikes are one of the most common catastrophic damage events. A driver fails to check the route for height restrictions, or the actual height of the home (including roof-mounted items like skylights or solar panels) is underestimated.
+- Overhanging tree strikes — rural routes in particular have trees that overhang the carriageway, and a branch at the edge of the legal height limit can cause significant damage to roofing and fascia.
+- Tow vehicle inadequacy — using a tow vehicle that's technically underrated for the load creates instability, longer braking distances, and greater risk of sway at speed.
 
 Consider a real scenario: a family moves their completed 8m THOW from the builder's yard in the Waikato to their rural property in the Coromandel. A 3.5-hour tow. On a windy day, on a route that wasn't fully pre-surveyed, a low-hanging branch catches the roofline. $12,000 in structural damage. This is not an unusual story.
 
@@ -1643,41 +1653,34 @@ Consider a real scenario: a family moves their completed 8m THOW from the builde
 
 A transit cover endorsement on your tiny home insurance policy — or a standalone transit cover — should protect your home while:
 
-**Being towed on public roads.** This is the core of transit cover. The vehicle towing you can be your own, a professional transport operator's, or a hired vehicle.
-
-**Loading and unloading.** Damage during the process of loading onto a transport carrier or unloading onto a new site is often included but worth confirming explicitly.
-
-**Roadside incidents beyond collisions.** Transit cover should extend to storm damage that occurs while the home is on the road (a sudden squall, for example), and to recovery costs if the home needs to be retrieved after an incident.
-
-**Stationary overnight during a multi-day move.** If your move takes multiple days and the home is secured at a campground or rest stop overnight, it should remain covered.
+- Being towed on public roads — this is the core of transit cover. The vehicle towing you can be your own, a professional transport operator's, or a hired vehicle.
+- Loading and unloading — damage during the process of loading onto a transport carrier or unloading onto a new site is often included but worth confirming explicitly.
+- Roadside incidents beyond collisions — transit cover should extend to storm damage that occurs while the home is on the road (a sudden squall, for example), and to recovery costs if the home needs to be retrieved after an incident.
+- Stationary overnight during a multi-day move — if your move takes multiple days and the home is secured at a campground or rest stop overnight, it should remain covered.
 
 ## What Transit Cover Often Excludes
 
 Understanding the exclusions is just as important as understanding the inclusions:
 
-**Mechanical breakdown of the tow vehicle.** Transit cover on the home itself doesn't cover your tow vehicle breaking down — that's your vehicle's problem, covered by your vehicle insurance or roadside assistance policy.
-
-**Damage caused by improper hitching or gross overloading.** If an insurer can demonstrate that the hitch setup was inadequate or the load was materially overweight, they may decline the claim. Always use the correct hitch rating and confirm your tow vehicle's gross tow capacity.
-
-**Damage from unlicensed or unqualified tow operators.** Using a "mate with a big ute" for a long-distance move can void your transit cover if the policy requires a qualified transport operator.
-
-**Gradual vibration damage (not sudden).** A cracked seam that developed over multiple transits rather than during a single incident is unlikely to be covered — transit claims typically require a sudden, unexpected event.
-
-**Exceeding road permit limits.** If your home requires an oversize load permit and you travel without one, any damage during that transit is likely to be excluded.
+- Mechanical breakdown of the tow vehicle — transit cover on the home itself doesn't cover your tow vehicle breaking down. That's your vehicle's problem, covered by your vehicle insurance or roadside assistance policy.
+- Damage caused by improper hitching or gross overloading — if an insurer can demonstrate that the hitch setup was inadequate or the load was materially overweight, they may decline the claim. Always use the correct hitch rating and confirm your tow vehicle's gross tow capacity.
+- Damage from unlicensed or unqualified tow operators — using a "mate with a big ute" for a long-distance move can void your transit cover if the policy requires a qualified transport operator.
+- Gradual vibration damage (not sudden) — a cracked seam that developed over multiple transits rather than during a single incident is unlikely to be covered. Transit claims typically require a sudden, unexpected event.
+- Exceeding road permit limits — if your home requires an oversize load permit and you travel without one, any damage during that transit is likely to be excluded.
 
 ## Navigating the Rules: What NZTA Requires for THOW Transport
 
 Before your tiny home can legally travel on a public road in New Zealand, there are regulatory requirements to meet. Getting these right isn't just a legal obligation — it directly affects your insurance validity.
 
-**Width limits:** Standard road-legal width is **2.55m**. Loads up to 3.0m may travel without a permit on some roads, but a permit is required for anything wider on state highways. Many finished tiny homes are 2.4–2.5m wide (internal), but external cladding, guttering, and features can push the total width above 2.55m.
+The standard road-legal width is **2.55m**. Loads up to 3.0m may travel without a permit on some roads, but a permit is required for anything wider on state highways. Many finished tiny homes are 2.4–2.5m wide (internal), but external cladding, guttering, and features can push the total width above 2.55m.
 
-**Height limits:** The standard maximum height is **4.25m** from road level. This is measured from the road surface, so a slight camber or tyre compression can affect your clearance. Roof-mounted solar panels, skylights, or cowl vents add to the overall height.
+The standard maximum height is **4.25m** from road level. This is measured from the road surface, so a slight camber or tyre compression can affect your clearance. Roof-mounted solar panels, skylights, or cowl vents add to the overall height.
 
-**Length limits:** The tow vehicle and trailer combination limit is **20m** total, with the trailer itself limited to **12.5m** in most circumstances.
+The tow vehicle and trailer combination limit is **20m** total, with the trailer itself limited to **12.5m** in most circumstances.
 
-**Oversize load permits:** Issued by NZTA for loads exceeding standard limits. Permits specify approved routes, travel times (daylight only is common), and may require pilot vehicles ahead and/or behind the load.
+Oversize load permits are issued by NZTA for loads exceeding standard limits. Permits specify approved routes, travel times (daylight only is common), and may require pilot vehicles ahead and/or behind the load.
 
-**CoF (Certificate of Fitness) for the trailer chassis:** Your tiny home sits on a trailer chassis, and that chassis requires a Certificate of Fitness — the commercial equivalent of a Warrant of Fitness. The CoF is issued annually by a NZTA-authorised inspector. If your CoF has lapsed, you're not legally entitled to tow the home on public roads — and your transit insurance is likely void.
+Your tiny home sits on a trailer chassis, and that chassis requires a Certificate of Fitness (CoF) — the commercial equivalent of a Warrant of Fitness. The CoF is issued annually by a NZTA-authorised inspector. If your CoF has lapsed, you're not legally entitled to tow the home on public roads — and your transit insurance is likely void.
 
 ## Before You Move: A Transport Checklist
 
@@ -1708,11 +1711,11 @@ If damage occurs during transport, the steps you take immediately after the even
 
 If you're not towing the home yourself, the choice of operator matters significantly:
 
-**Professional THOW transport companies** (such as those who specialise in oversized load transport) carry their own public liability and transit insurance. They have experience with oversize permits, correct equipment, and route planning. Using a professional operator often makes the insurance picture cleaner — their liability covers their driving, and your transit policy covers your home's structure.
+Professional THOW transport companies (such as those who specialise in oversized load transport) carry their own public liability and transit insurance. They have experience with oversize permits, correct equipment, and route planning. Using a professional operator often makes the insurance picture cleaner — their liability covers their driving, and your transit policy covers your home's structure.
 
-**Self-towing** is common and perfectly valid for those with appropriate vehicles and experience. Self-towing requires you to ensure your own vehicle is correctly rated, your own hitch setup is adequate, and your transit cover is in place.
+Self-towing is common and perfectly valid for those with appropriate vehicles and experience. It requires you to ensure your own vehicle is correctly rated, your hitch setup is adequate, and your transit cover is in place.
 
-**Informal arrangements** — asking a friend with a capable vehicle — create ambiguity. If that friend's driving causes damage, who's liable? Your transit cover may still apply, but the insurer may seek to recover costs from the driver. Confirm with your adviser before informal towing arrangements.
+Informal arrangements — asking a friend with a capable vehicle — create ambiguity. If that friend's driving causes damage, who's liable? Your transit cover may still apply, but the insurer may seek to recover costs from the driver. Confirm with your adviser before informal towing arrangements.
 
 ## Frequently Asked Questions
 
@@ -1742,9 +1745,9 @@ A: Some specialist insurers offer trip-by-trip transit cover, but it's uncommon.
 
 The fundamental challenge is a **dual identity problem**: a skoolie is simultaneously a motor vehicle and a dwelling. This creates a gap that neither standard vehicle insurance nor standard home insurance was designed to fill.
 
-**Standard vehicle insurance** covers the bus as a motor vehicle — third-party liability for road use, and potentially comprehensive cover for the vehicle structure itself. But vehicle policies are not designed to cover the habitable fit-out. The custom joinery, insulation, solar system, plumbing, composting toilet, and all the other features that make a skoolie liveable are typically excluded from vehicle insurance — they're not "motor vehicle parts."
+Standard vehicle insurance covers the bus as a motor vehicle — third-party liability for road use, and potentially comprehensive cover for the vehicle structure itself. But vehicle policies are not designed to cover the habitable fit-out. The custom joinery, insulation, solar system, plumbing, composting toilet, and all the other features that make a skoolie liveable are typically excluded from vehicle insurance — they're not "motor vehicle parts."
 
-**Standard home insurance** covers dwellings — but dwellings at a fixed address, on a foundation, with a council-assigned street address and (ideally) a building consent. A bus that drives on roads, lacks a permanent address, and was never built to a building code sits entirely outside the framework that home insurance was designed for.
+Standard home insurance covers dwellings — but dwellings at a fixed address, on a foundation, with a council-assigned street address and (ideally) a building consent. A bus that drives on roads, lacks a permanent address, and was never built to a building code sits entirely outside the framework that home insurance was designed for.
 
 The result: a standard vehicle policy leaves the entire conversion investment uninsured, while a standard home policy won't write the risk at all. Finding the right combination of specialist cover is essential.
 
@@ -1752,13 +1755,9 @@ The result: a standard vehicle policy leaves the entire conversion investment un
 
 The skoolie movement is smaller than the THOW movement in New Zealand, but it's a genuine and growing community. Key characteristics:
 
-**Popular regions:** The South Island — particularly the West Coast, Nelson/Marlborough, and Otago — attracts a disproportionate number of skoolie dwellers, partly for the landscape and partly for the more relaxed enforcement environment around alternative housing. The Waikato, Bay of Plenty, and Northland also have active communities.
+The South Island — particularly the West Coast, Nelson/Marlborough, and Otago — attracts a disproportionate number of skoolie dwellers, partly for the landscape and partly for the more relaxed enforcement environment around alternative housing. The Waikato, Bay of Plenty, and Northland also have active communities. The "Bus Conversion NZ" Facebook group is the primary online gathering point, with several thousand members sharing build projects, advice, and site recommendations.
 
-**Online community:** The "Bus Conversion NZ" Facebook group is the primary gathering point for the NZ skoolie community, with several thousand members sharing build projects, advice, and site recommendations.
-
-**Acquisition costs:** Decommissioned school buses at auction (Turners, Manheim, council surplus sales) typically cost between **$5,000 and $30,000** depending on size, age, and condition. Coaches command higher prices given their better passenger comfort starting point.
-
-**Conversion investment:** This is where the real money goes. A basic conversion (insulation, flooring, simple furniture) might cost $10,000–$20,000 in materials and time. A high-specification conversion with solar, composting toilet, full kitchen, custom cabinetry, and quality finishes can reach **$50,000–$100,000+** in total investment — far exceeding the purchase price of the bus itself.
+Decommissioned school buses at auction (Turners, Manheim, council surplus sales) typically cost between **$5,000 and $30,000** depending on size, age, and condition. Coaches command higher prices given their better passenger comfort starting point. The conversion is where the real money goes: a basic conversion (insulation, flooring, simple furniture) might cost $10,000–$20,000 in materials and time, while a high-specification conversion with solar, composting toilet, full kitchen, custom cabinetry, and quality finishes can reach **$50,000–$100,000+** in total investment — far exceeding the purchase price of the bus itself.
 
 This inversion — where the conversion value greatly exceeds the vehicle value — is central to the insurance problem. Vehicle insurance values the bus as a vehicle (and a depreciated one at that). The conversion investment is essentially invisible to a vehicle policy.
 
@@ -1766,50 +1765,54 @@ This inversion — where the conversion value greatly exceeds the vehicle value 
 
 The regulatory status of a skoolie matters significantly for insurance — and for your ability to use it legally.
 
-**Certificate of Fitness (CoF):** All school buses and coaches — heavy motor vehicles — require a **Certificate of Fitness**, not a standard Warrant of Fitness. A CoF is issued by a NZTA-authorised inspection station and must be renewed every **6 months** for vehicles in commercial service, though decommissioned vehicles used as private dwellings may have different requirements. Your insurer will want to know the CoF status.
+All school buses and coaches — heavy motor vehicles — require a **Certificate of Fitness (CoF)**, not a standard Warrant of Fitness. A CoF is issued by a NZTA-authorised inspection station and must be renewed every **6 months** for vehicles in commercial service, though decommissioned vehicles used as private dwellings may have different requirements. Your insurer will want to know the CoF status.
 
-**Structural modifications and re-certification:** Converting a bus involves significant structural changes — cutting openings for windows and doors, adding weight (batteries, water tanks, furniture), potentially modifying the roof. Some modifications require **NZTA Low Volume Vehicle (LVV) certification** to confirm the modified vehicle remains roadworthy. An uncertified structural modification on a vehicle involved in an accident can create serious liability and insurance complications.
+Converting a bus involves significant structural changes — cutting openings for windows and doors, adding weight (batteries, water tanks, furniture), potentially modifying the roof. Some modifications require **NZTA Low Volume Vehicle (LVV) certification** to confirm the modified vehicle remains roadworthy. An uncertified structural modification on a vehicle involved in an accident can create serious liability and insurance complications.
 
-**Permanently parked skoolies:** Some skoolie owners park their bus permanently on a private property with no intention of driving it. Even in this case, the vehicle typically retains its registration status, which means the CoF requirements may still technically apply — and the liability insurance requirements (third-party motor vehicle liability through ACC and private insurance) remain.
+Some skoolie owners park their bus permanently on a private property with no intention of driving it. Even in this case, the vehicle typically retains its registration status, which means the CoF requirements may still technically apply — and the liability insurance requirements (third-party motor vehicle liability through ACC and private insurance) remain.
 
-**Weight and dimension rules:** A converted school bus may exceed standard vehicle dimensions (particularly height, if a roof raise has been added). Any oversize dimensions need to be registered with NZTA, and road movements may require permits.
+A converted school bus may exceed standard vehicle dimensions (particularly height, if a roof raise has been added). Any oversize dimensions need to be registered with NZTA, and road movements may require permits.
 
 ## What Comprehensive Skoolie Cover Looks Like
 
 Getting genuine comprehensive cover for a skoolie usually requires assembling multiple insurance components:
 
-**Component 1: The vehicle structure**
+### Component 1: The vehicle structure
+
 The bus itself — body, chassis, mechanical components, windows, and original structure — needs cover as a specialist vehicle. Standard comprehensive motor vehicle insurance from mainstream providers often declines modified vehicles like this. Specialist classic/modified vehicle insurers or commercial vehicle specialists are better options.
 
-**Component 2: The habitable conversion fit-out**
+### Component 2: The habitable conversion fit-out
+
 The conversion — all the insulation, timber framing, flooring, cabinetry, kitchen, bathroom, plumbing, solar system, batteries, and personal fittings — needs to be covered as a dwelling or contents. This is the component that standard vehicle policies completely miss. Some specialist home insurance providers who understand alternative housing can extend cover to this component with appropriate declarations and documentation.
 
-**Component 3: Public liability while stationary (as a home)**
+### Component 3: Public liability while stationary
+
 When the skoolie is parked and being used as a residence, you need public liability cover that functions like home liability — protecting you if a visitor is injured on your "property" or if the structure causes damage to a neighbour's property (for example, a fire spreading from your parked skoolie).
 
-**Component 4: Road liability while driving (as a vehicle)**
+### Component 4: Road liability while driving
+
 This is where standard comprehensive motor vehicle insurance may work for its intended purpose — covering third-party liability and vehicle damage during road use. Note that the Accident Compensation Corporation (ACC) motor vehicle levy covers personal injury on NZ roads, so the primary concern here is property damage liability.
 
 ## Freedom Camping and the Camping-Grounds Act
 
 One of the appeals of skoolie living is the ability to be genuinely mobile — to travel and stay in a range of locations. Understanding the legal framework is important:
 
-**The Freedom Camping Act 2011** allows self-contained vehicles to freedom camp in a wider range of locations than non-self-contained vehicles. The key definition of "self-contained" under the Act requires:
+The Freedom Camping Act 2011 allows self-contained vehicles to freedom camp in a wider range of locations than non-self-contained vehicles. The key definition of "self-contained" under the Act requires:
 - A **toilet** within the vehicle
 - A **grey water containment system**
 - Sufficient **fresh water capacity** for the intended stay
 
 Many well-specified skoolies meet the self-contained definition and can obtain a **self-containment certificate** through a vehicle inspection. This certification has insurance implications: it confirms the vehicle's dwelling function and can support your case with insurers who need to understand what the vehicle is.
 
-**Campground liability:** When staying at a formal campground, the campground operator's management rules create additional obligations. Insurance should cover your public liability within the campground environment.
+When staying at a formal campground, the campground operator's management rules create additional obligations. Insurance should cover your public liability within the campground environment.
 
-**Freedom camping liability:** When freedom camping on public land, your public liability cover needs to extend to that environment. Most public liability policies follow the person rather than the address, but confirm this with your adviser.
+When freedom camping on public land, your public liability cover needs to extend to that environment. Most public liability policies follow the person rather than the address, but confirm this with your adviser.
 
 ## Finding a Skoolie-Friendly Insurer
 
 The mainstream insurance market — IAG brands (State, AMI), Vero, Tower, and similar — will typically decline skoolie cover or offer only partial vehicle cover that misses the conversion entirely. The realistic path to comprehensive cover runs through specialist channels:
 
-**Specialist brokers and advisers** who work with alternative housing clients understand which wholesale insurers in the New Zealand market will consider a well-documented skoolie. These advisers often have relationships with Lloyd's of London underwriters or niche specialist markets that don't appear in retail insurance comparisons.
+Specialist brokers and advisers who work with alternative housing clients understand which wholesale insurers in the New Zealand market will consider a well-documented skoolie. These advisers often have relationships with Lloyd's of London underwriters or niche specialist markets that don't appear in retail insurance comparisons.
 
 **What to provide:** A comprehensive submission to a specialist insurer should include:
 - Detailed photographs of the exterior and complete interior of the conversion
@@ -1824,11 +1827,11 @@ The mainstream insurance market — IAG brands (State, AMI), Vero, Tower, and si
 
 The valuation challenge for skoolies is real. A well-converted skoolie might be on the market for $80,000–$150,000, but if it's damaged or destroyed, what does it cost to replace?
 
-**Starting point: bus purchase price + full conversion cost.** Keep every invoice. If you did significant DIY work, estimate the labour component honestly — a commercial builder's time costs $80–$120 per hour.
+Start with the bus purchase price plus your full conversion cost. Keep every invoice. If you did significant DIY work, estimate the labour component honestly — a commercial builder's time costs $80–$120 per hour.
 
-**The second-hand market challenge:** Unlike a conventional house where rebuild cost can be independently assessed, a skoolie has a thin second-hand market that makes comparable valuations difficult. An agreed value policy (where you and the insurer agree on a fixed value upfront) is preferable to a market value policy for this reason.
+Unlike a conventional house where rebuild cost can be independently assessed, a skoolie has a thin second-hand market that makes comparable valuations difficult. An agreed value policy — where you and the insurer agree on a fixed value upfront — is preferable to a market value policy for this reason.
 
-**Get a written conversion rebuild quote:** Ask a professional bus converter or qualified builder what it would cost to recreate your conversion from scratch. This is your reinstatement value and should be the basis of your sum insured.
+Ask a professional bus converter or qualified builder what it would cost to recreate your conversion from scratch. That figure is your reinstatement value and should be the basis of your sum insured.
 
 ## Frequently Asked Questions
 
@@ -1871,11 +1874,11 @@ New Zealand has an estimated **10,000+ park homes** in use, ranging from basic 1
 
 The insurance market treats these three categories differently, and understanding why helps you frame conversations with your adviser:
 
-**Caravans** are designed for road travel and temporary accommodation. They're insured as vehicles/recreational assets and typically have lower sum-insured limits, coverage for a wide range of campsites and locations, and specific provisions for seasonal storage.
+Caravans are designed for road travel and temporary accommodation. They're insured as vehicles/recreational assets and typically have lower sum-insured limits, coverage for a wide range of campsites and locations, and specific provisions for seasonal storage.
 
-**Tiny homes on wheels (THOWs)** are custom-built dwellings on trailer chassis — primarily designed for permanent or semi-permanent residential use. They sit between caravan and dwelling in the insurance market and require specialist treatment.
+Tiny homes on wheels (THOWs) are custom-built dwellings on trailer chassis — primarily designed for permanent or semi-permanent residential use. They sit between caravan and dwelling in the insurance market and require specialist treatment.
 
-**Park homes** are intended to be permanently sited. They rarely move once installed. They're larger than THOWs, have more permanent connections, and are designed for continuous year-round residential occupation. Despite the chassis underneath them, park homes are much closer to a conventional house in their intended use — and should (ideally) be insured closer to how a house is insured.
+Park homes are intended to be permanently sited. They rarely move once installed. They're larger than THOWs, have more permanent connections, and are designed for continuous year-round residential occupation. Despite the chassis underneath them, park homes are much closer to a conventional house in their intended use — and should (ideally) be insured closer to how a house is insured.
 
 The challenge: mainstream house insurers see the steel chassis and the non-fixed-foundation status and treat the home as a non-standard construction risk they'd rather decline.
 
@@ -1883,50 +1886,60 @@ The challenge: mainstream house insurers see the steel chassis and the non-fixed
 
 Several features of park homes trigger mainstream insurer declines or restrictions:
 
-**Steel chassis construction.** Mainstream home insurers categorise construction types as timber frame, masonry, or "non-standard." A park home on a steel chassis is "non-standard," which may trigger either a decline or a significant premium loading.
+The steel chassis construction is the first hurdle. Mainstream home insurers categorise construction types as timber frame, masonry, or "non-standard" — a park home on a steel chassis falls into the latter category, which may trigger either a decline or a significant premium loading.
 
-**Manufactured off-site.** Some insurers have concerns about build quality for homes that weren't built under a standard Building Act process. New park homes from established manufacturers are typically built to a high standard and comply with the relevant New Zealand standards (NZS 3604 and others), but older or imported homes may have uncertain construction quality.
+Being manufactured off-site raises concerns with some insurers about build quality. New park homes from established manufacturers are typically built to a high standard and comply with the relevant New Zealand standards (NZS 3604 and others), but older or imported homes may have uncertain construction quality.
 
-**Leasehold land in parks.** In holiday park communities and lifestyle villages, residents typically own their home but **lease the land** from the park operator under a site licence. This leasehold arrangement creates complications: some insurers are only comfortable insuring improvements to land where the owner has freehold title. The home can't be mortgaged (banks need security over land as well as improvements), which also affects how insurers view the property.
+The leasehold land arrangement compounds the problem. In holiday park communities and lifestyle villages, residents typically own their home but **lease the land** from the park operator under a site licence. Some insurers are only comfortable insuring improvements to land where the owner has freehold title. The home can't be mortgaged (banks need security over land as well as improvements), which also affects how insurers view the property.
 
-**Age of the dwelling.** Park homes built in the 1970s, 80s, and 90s may have issues that newer buildings don't: older insulation materials (some now known to be problematic), aging plumbing, outdated electrical systems. Many mainstream insurers apply age-based restrictions — homes over 20 or 25 years old may be difficult to insure with mainstream providers.
+The age of the dwelling is another factor. Park homes built in the 1970s, 80s, and 90s may have older insulation materials (some now known to be problematic), ageing plumbing, and outdated electrical systems. Many mainstream insurers apply age-based restrictions — homes over 20 or 25 years old may be difficult to insure with mainstream providers.
 
 ## What Happens If the Park Closes?
 
 One of the most important insurance considerations for park home owners in site-lease arrangements is what happens if the park or lifestyle village closes or redevelops.
 
-**Legal protections under the Residential Tenancies Act:** Park home residents in New Zealand are protected under the **Residential Tenancies Amendment Act 2019**, which brought relocatable dwelling residents within the RTA's protections. Key rights include:
+Park home residents are protected under the **Residential Tenancies Amendment Act 2019**, which brought relocatable dwelling residents within the RTA's protections. Key rights include:
 - Written site licence agreements
 - Notice periods before eviction (up to 90 days in some circumstances)
 - Compensation entitlements for forced relocation
 
-**Insurance for forced relocation:** The RTA protections help, but they don't fully compensate for the cost and disruption of moving. This is where transit insurance becomes critical — if a park closure forces you to relocate your home, the insurance question is whether the transit move is covered.
+The RTA protections help, but they don't fully compensate for the cost and disruption of moving. This is where transit insurance becomes critical — if a park closure forces you to relocate your home, the insurance question is whether the transit move is covered.
 
-**Loss of site fees while displaced:** If your home is uninhabitable or you've been forced to vacate your site during a relocation process, some specialist policies include cover for alternative accommodation costs or site fee equivalents during the displacement period.
+If your home is uninhabitable or you've been forced to vacate your site during a relocation process, some specialist policies include cover for alternative accommodation costs or site fee equivalents during the displacement period.
 
 ## The Core Components of Park Home Insurance
 
 Genuine comprehensive park home insurance should address:
 
-**Building and structure cover:** The home itself at full reinstatement cost — shell, cladding, roof, windows, doors, plumbing, electrical, and permanently installed fittings. This should include the steel chassis as a structural element.
+### Building and structure cover
 
-**Contents insurance:** Personal belongings inside the home. Standard contents cover is similar to that available for conventional homes, but check for any restrictions related to the dwelling type.
+The home itself at full reinstatement cost — shell, cladding, roof, windows, doors, plumbing, electrical, and permanently installed fittings. This should include the steel chassis as a structural element.
 
-**Public liability:** Protection if a visitor is injured at your property or if your home causes damage to neighbouring properties (for example, fire spreading, or a structure collapse). When you're in a park with neighbours in close proximity, public liability is particularly important.
+### Contents insurance
 
-**Transit cover:** Essential for relocations — whether planned moves to better sites, forced moves due to park closure, or emergency relocations. Transit cover should include damage during loading, towing, and unloading, as well as recovery costs if something goes wrong mid-move.
+Personal belongings inside the home. Standard contents cover is similar to that available for conventional homes, but check for any restrictions related to the dwelling type.
 
-**Loss of use:** If your home is uninhabitable due to an insured event, temporary accommodation costs. This is especially important for residents with no alternative accommodation options.
+### Public liability
+
+Protection if a visitor is injured at your property or if your home causes damage to neighbouring properties (for example, fire spreading, or a structure collapse). When you're in a park with neighbours in close proximity, public liability is particularly important.
+
+### Transit cover
+
+Essential for relocations — whether planned moves to better sites, forced moves due to park closure, or emergency relocations. Transit cover should include damage during loading, towing, and unloading, as well as recovery costs if something goes wrong mid-move.
+
+### Loss of use
+
+If your home is uninhabitable due to an insured event, temporary accommodation costs. This is especially important for residents with no alternative accommodation options.
 
 ## How Age Affects Park Home Insurance
 
 Age is one of the most significant factors affecting park home insurability. The insurance market's approach:
 
-**Homes under 15 years old:** Generally most insurable with specialist providers. Modern manufactured homes meet current standards, have warranties from manufacturers, and have relatively recent electrical and plumbing systems.
+Homes under 15 years old are generally the most insurable with specialist providers. Modern manufactured homes meet current standards, have warranties from manufacturers, and have relatively recent electrical and plumbing systems.
 
-**Homes 15–25 years old:** Increasingly complex. Some insurers decline; others will underwrite with conditions (e.g., requiring an electrical inspection within the last three years). Replacement cost cover may give way to agreed value or market value cover.
+Homes between 15 and 25 years old are increasingly complex. Some insurers decline; others will underwrite with conditions (e.g., requiring an electrical inspection within the last three years). Replacement cost cover may give way to agreed value or market value cover.
 
-**Homes over 25 years old:** Most challenging to insure. Some specialist insurers will still write these risks, but with significant conditions around inspection requirements, exclusions for pre-existing conditions, and market value (rather than replacement cost) settlement terms.
+Homes over 25 years old are the most challenging to insure. Some specialist insurers will still write these risks, but with significant conditions around inspection requirements, exclusions for pre-existing conditions, and market value (rather than replacement cost) settlement terms.
 
 **Replacement cost vs agreed value vs market value:**
 - **Replacement cost** — insurer pays the cost of rebuilding/replacing with a new equivalent. Best outcome for the insured.
@@ -1939,23 +1952,23 @@ Getting a written valuation from a specialist who understands park home values i
 
 Park homes exist across a spectrum of communities in New Zealand:
 
-**Lifestyle villages** — purpose-built retirement-oriented communities with modern facilities (swimming pools, community centres, bowling greens). Often operated by national operators like Summerset, Ryman, or smaller regional operators. Generally have professional park management and well-maintained infrastructure.
+Lifestyle villages are purpose-built, retirement-oriented communities with modern facilities (swimming pools, community centres, bowling greens). Often operated by national operators like Summerset, Ryman, or smaller regional operators, they generally have professional park management and well-maintained infrastructure.
 
-**Holiday parks with permanent residents** — many of New Zealand's holiday parks have a proportion of "permanent" residents in park homes or long-term caravans. These are regulated under the RTA.
+Many holiday parks have a proportion of permanent residents in park homes or long-term caravans. These residents are regulated under the RTA and face some of the same insurance challenges as lifestyle village residents.
 
-**Smaller rural parks** — often older, smaller, and with less formal management. These communities can be more challenging for insurance purposes due to the age of homes and infrastructure.
+Smaller rural parks are often older, with less formal management. These communities can be more challenging for insurance purposes due to the age of homes and infrastructure.
 
-**Private land placements** — park homes sited on private freehold land (the owner's own property or a family member's) exist outside the holiday park framework and are generally more insurable because the leasehold complication doesn't apply.
+Park homes sited on private freehold land — the owner's own property or a family member's — exist outside the holiday park framework and are generally more insurable because the leasehold complication doesn't apply.
 
 ## The Regulatory Context
 
 Understanding the regulatory framework helps with insurance conversations:
 
-**Residential Tenancies Amendment Act 2019** — extended RTA protections to park home residents in site-lease arrangements. This is a significant legal protection that every park home resident should understand.
+The Residential Tenancies Amendment Act 2019 extended RTA protections to park home residents in site-lease arrangements. This is a significant legal protection that every park home resident should understand.
 
-**Building Act 2004 and building consent** — new park homes placed on a permanent site typically require a building consent. The manufactured home itself may be built to factory specifications that meet NZS standards, but site preparation, connections, and skirting usually require consent. Park homes placed without consent face the same challenges as other non-consented dwellings.
+Under the Building Act 2004, new park homes placed on a permanent site typically require a building consent. The manufactured home itself may be built to factory specifications that meet NZS standards, but site preparation, connections, and skirting usually require consent. Park homes placed without consent face the same challenges as other non-consented dwellings.
 
-**Manufactured Home Industry Association NZ (MHIANZ)** — represents park home manufacturers and retailers in New Zealand. Membership includes commitment to build quality standards, and MHIANZ membership from a manufacturer can be a positive signal to insurers.
+The Manufactured Home Industry Association NZ (MHIANZ) represents park home manufacturers and retailers. Membership includes commitment to build quality standards, and MHIANZ membership from a manufacturer can be a positive signal to insurers.
 
 ## Frequently Asked Questions
 
@@ -1985,9 +1998,9 @@ A: Only if your policy specifically includes transit cover. Many home policies d
 
 The shift from lead-acid to lithium iron phosphate batteries in off-grid tiny homes has been dramatic and largely complete. To understand why — and why the chemistry choice matters to your insurer — it helps to understand what you're comparing:
 
-**Lead-acid batteries** (both flooded and AGM/gel types) were the standard for off-grid storage for decades. They work, they're proven, and they're cheap per kilowatt-hour at purchase. But they have major limitations: **300–500 charge cycles** before significant capacity degradation, heavy weight (a 10kWh AGM bank weighs 400–600kg), off-gassing of **hydrogen** during charging (requiring ventilation to prevent explosion risk), lower energy density, and significant temperature sensitivity.
+Lead-acid batteries (both flooded and AGM/gel types) were the standard for off-grid storage for decades. They work, they're proven, and they're cheap per kilowatt-hour at purchase. But they have major limitations: **300–500 charge cycles** before significant capacity degradation, heavy weight (a 10kWh AGM bank weighs 400–600kg), off-gassing of **hydrogen** during charging (requiring ventilation to prevent explosion risk), lower energy density, and significant temperature sensitivity.
 
-**LiFePO4 batteries** have transformed the calculation: **3,000–5,000+ charge cycles** (10+ years of daily cycling), dramatically lower weight (a 10kWh LiFePO4 bank might weigh 80–120kg), no off-gassing, higher energy density, better temperature performance, and built-in battery management systems (BMS) that actively protect the cells.
+LiFePO4 batteries have transformed the calculation: **3,000–5,000+ charge cycles** (10+ years of daily cycling), dramatically lower weight (a 10kWh LiFePO4 bank might weigh 80–120kg), no off-gassing, higher energy density, better temperature performance, and built-in battery management systems (BMS) that actively protect the cells.
 
 Typical system sizes for full-time off-grid tiny home living in New Zealand:
 - **5–10kWh** for conservative usage (efficient appliances, no heavy loads)
@@ -2000,11 +2013,17 @@ Popular brands used in the NZ tiny home community include **Victron Energy** (pr
 
 The question most insurers are really asking when they hear "lithium battery" is: how likely is this to catch fire, and what happens if it does? The answer depends significantly on the chemistry:
 
-**LiFePO4 (lithium iron phosphate):** The gold standard for safety in stationary storage. **Thermal runaway temperature is approximately 270°C** — the temperature at which the chemistry destabilises and becomes self-sustaining. This is substantially higher than other lithium chemistries and means that external heat sources (a nearby fire, for example) need to be very intense to trigger battery thermal runaway. LiFePO4 also releases less flammable gas during degradation than other lithium chemistries.
+### LiFePO4 (lithium iron phosphate)
 
-**Lithium-ion NMC (nickel manganese cobalt)** — used in most electric vehicles, phones, and consumer electronics: **Thermal runaway at approximately 150°C**. More energy-dense than LiFePO4 but less thermally stable. The fires in Tesla EVs and consumer electronics are primarily NMC-chemistry fires. Some older or budget home battery systems use NMC — knowing your specific chemistry matters.
+The gold standard for safety in stationary storage. **Thermal runaway temperature is approximately 270°C** — the temperature at which the chemistry destabilises and becomes self-sustaining. This is substantially higher than other lithium chemistries and means that external heat sources (a nearby fire, for example) need to be very intense to trigger battery thermal runaway. LiFePO4 also releases less flammable gas during degradation than other lithium chemistries.
 
-**Lead-acid (flooded):** **Hydrogen off-gassing** during charging creates an explosion risk in poorly ventilated spaces. Not a fire risk from the battery chemistry itself, but a significant explosion risk if hydrogen accumulates. If you still have an older lead-acid system, ventilation is the critical safety feature.
+### Lithium-ion NMC (nickel manganese cobalt)
+
+Used in most electric vehicles, phones, and consumer electronics, with **thermal runaway at approximately 150°C**. More energy-dense than LiFePO4 but less thermally stable. The fires in Tesla EVs and consumer electronics are primarily NMC-chemistry fires. Some older or budget home battery systems use NMC — knowing your specific chemistry matters.
+
+### Lead-acid (flooded)
+
+Hydrogen off-gassing during charging creates an explosion risk in poorly ventilated spaces. Not a fire risk from the battery chemistry itself, but a significant explosion risk if hydrogen accumulates. If you still have an older lead-acid system, ventilation is the critical safety feature.
 
 **What to tell your insurer:**
 - Exact battery chemistry (LiFePO4, not just "lithium")
@@ -2019,49 +2038,40 @@ The question most insurers are really asking when they hear "lithium battery" is
 
 Understanding the actual causes of battery fires allows you to mitigate risk and demonstrate that mitigation to your insurer:
 
-**Overcharging.** The most common cause of battery damage and one of the leading causes of fire. Occurs when the charging system (solar charge controller, shore power charger) malfunctions and continues to push current into a full battery. A functioning BMS prevents overcharging by disconnecting the charging source — BMS failure removes this protection.
-
-**Physical damage.** A cracked or punctured cell can short-circuit internally, generating heat. For THOW owners, the transit process is a significant risk — road vibration and impacts can damage cells or connections. Post-transit inspection of battery connections and monitoring for unusual behaviour is good practice.
-
-**Water ingress.** Electrical systems and water don't mix. A battery enclosure that isn't adequately weatherproofed in a THOW exposed to rain, condensation, or flooding can develop short circuits. Marine-grade battery enclosures or IP-rated enclosures reduce this risk.
-
-**Wiring faults.** A loose connection, undersized cable, or missing fuse can create localised heat that escalates. All DC wiring in an off-grid system should be correctly sized for the current it carries, protected by appropriate fuses, and installed with proper connectors.
-
-**Thermal runaway from defective cells.** Rare with LiFePO4, but manufacturing defects exist. A cell that has an internal defect may develop thermal runaway without any external trigger. This is why brand and certification matter — established manufacturers have quality control processes that reduce (but don't eliminate) this risk.
-
-**DIY builds with poor cell matching.** Prismatic cell DIY builds, where individual cells are purchased and assembled into packs, can develop problems if cells are poorly matched (mismatched internal resistance causes uneven charging and stress), inadequately balanced, or fitted with an undersized BMS.
+- Overcharging is the most common cause of battery damage and one of the leading causes of fire. It occurs when the charging system (solar charge controller, shore power charger) malfunctions and continues to push current into a full battery. A functioning BMS prevents overcharging by disconnecting the charging source — BMS failure removes this protection.
+- Physical damage from a cracked or punctured cell can cause an internal short circuit that generates heat. For THOW owners, the transit process is a significant risk — road vibration and impacts can damage cells or connections. Post-transit inspection of battery connections and monitoring for unusual behaviour is good practice.
+- Water ingress is another serious hazard. Electrical systems and water don't mix, and a battery enclosure that isn't adequately weatherproofed in a THOW exposed to rain, condensation, or flooding can develop short circuits. Marine-grade or IP-rated enclosures reduce this risk.
+- Wiring faults — a loose connection, undersized cable, or missing fuse — can create localised heat that escalates. All DC wiring in an off-grid system should be correctly sized for the current it carries, protected by appropriate fuses, and installed with proper connectors.
+- Thermal runaway from defective cells is rare with LiFePO4, but manufacturing defects exist. A cell with an internal defect may develop thermal runaway without any external trigger. This is why brand and certification matter — established manufacturers have quality control processes that reduce (but don't eliminate) this risk.
+- DIY builds with poor cell matching can develop problems when individual cells are purchased and assembled into packs. Mismatched internal resistance causes uneven charging and stress; cells that are inadequately balanced or fitted with an undersized BMS are a fire risk.
 
 ## Safe Installation: What Reduces Risk and Helps Your Insurance Case
 
 Demonstrating responsible, safe installation is one of the most effective things you can do to support your insurance position:
 
-**Dedicated battery enclosure.** A purpose-built, fire-rated enclosure that separates the battery bank from the living space is the gold standard. At minimum, battery banks should not be stored in sleeping areas or in confined spaces with limited emergency egress.
+A purpose-built, fire-rated enclosure that separates the battery bank from the living space is the gold standard. At minimum, battery banks should not be stored in sleeping areas or in confined spaces with limited emergency egress.
 
-**Ventilation.** Even LiFePO4 batteries benefit from ventilation — not for off-gassing (unlike lead-acid) but for thermal management. A battery that operates at lower temperatures has a longer lifespan and reduced risk. Vent to the exterior, with an intake at low level and exhaust at high level.
+Even LiFePO4 batteries benefit from ventilation — not for off-gassing (unlike lead-acid) but for thermal management. A battery that operates at lower temperatures has a longer lifespan and reduced risk. Vent to the exterior, with an intake at low level and exhaust at high level.
 
-**BMS with cell-level monitoring.** A battery management system that monitors individual cell voltages, temperatures, and state of charge — and automatically disconnects the battery if any parameter goes outside safe limits — is a critical safety feature. Document your BMS specifications.
+A battery management system with cell-level monitoring — one that monitors individual cell voltages, temperatures, and state of charge and automatically disconnects the battery if any parameter goes outside safe limits — is a critical safety feature. Document your BMS specifications.
 
-**Smoke and CO detection.** Install a smoke alarm and (for any system that might conceivably produce combustion gases) a CO alarm in or near the battery enclosure. These are also required by NZ building code in habitable spaces.
+Install a smoke alarm and (for any system that might conceivably produce combustion gases) a CO alarm in or near the battery enclosure. These are also required by NZ building code in habitable spaces.
 
-**Fire suppression.** At minimum, an ABC dry powder extinguisher rated for electrical fires should be accessible near the battery area. For higher-value systems (20kWh+), automatic fire suppression in the battery enclosure (aerosol-based or specialist lithium fire suppression systems) provides a meaningful additional layer of protection.
+At minimum, an ABC dry powder extinguisher rated for electrical fires should be accessible near the battery area. For higher-value systems (20kWh+), automatic fire suppression in the battery enclosure (aerosol-based or specialist lithium fire suppression systems) provides a meaningful additional layer of protection.
 
-**Professional installation certificate.** A certificate from a licensed electrician confirming that the installation was completed to a safe standard is valuable documentation for insurance purposes. Some insurers require this for coverage of high-value electrical systems.
+A certificate from a licensed electrician confirming that the installation was completed to a safe standard is valuable documentation for insurance purposes. Some insurers require this for coverage of high-value electrical systems.
 
-**Standards compliance.** The relevant Australian standard for stationary battery systems is **AS/NZS 5139** (Safety requirements for battery systems). New Zealand typically adopts Australian standards in the electrical space, and compliance with AS/NZS 5139 is the relevant benchmark.
+The relevant Australian standard for stationary battery systems is **AS/NZS 5139** (Safety requirements for battery systems). New Zealand typically adopts Australian standards in the electrical space, and compliance with AS/NZS 5139 is the relevant benchmark.
 
 ## What Your Insurance Should Cover
 
 When reviewing your policy for battery storage, look for explicit coverage of:
 
-**Fire damage originating from battery.** This should be an explicit inclusion. Some policies have broad fire cover that clearly encompasses this; others have ambiguous wording around "electrical faults" or "gradual deterioration" that could be misapplied to a battery fire. If in doubt, ask your insurer in writing.
-
-**Consequential structural damage.** If a battery fire spreads to the structure of your tiny home, the building and contents cover should extend to all resulting damage — not just the battery itself.
-
-**Transit damage to battery systems.** Tiny homes on wheels face specific risks during transport. Policy cover during transit should explicitly extend to the battery system, including damage to cells, connections, and mounting hardware.
-
-**Theft.** A quality 10kWh LiFePO4 battery system is worth $4,000–$8,000 or more. Batteries are targeted for theft — particularly from properties in rural areas. Theft cover with an adequate sub-limit for battery systems is important.
-
-**Water damage to battery systems.** Flooding, storm inundation, or water ingress should be covered for battery systems — though check whether any exclusions for "gradual deterioration" or "maintenance issues" could be applied to corrosion or moisture damage.
+- Fire damage originating from the battery should be an explicit inclusion. Some policies have broad fire cover that clearly encompasses this; others have ambiguous wording around "electrical faults" or "gradual deterioration" that could be misapplied to a battery fire. If in doubt, ask your insurer in writing.
+- Consequential structural damage — if a battery fire spreads to the structure of your tiny home, the building and contents cover should extend to all resulting damage, not just the battery itself.
+- Transit damage to battery systems — tiny homes on wheels face specific risks during transport, and policy cover during transit should explicitly extend to the battery system, including damage to cells, connections, and mounting hardware.
+- Theft — a quality 10kWh LiFePO4 battery system is worth $4,000–$8,000 or more, and batteries are targeted for theft, particularly from properties in rural areas. Theft cover with an adequate sub-limit for battery systems is important.
+- Water damage to battery systems — flooding, storm inundation, or water ingress should be covered, though check whether any exclusions for "gradual deterioration" or "maintenance issues" could be applied to corrosion or moisture damage.
 
 ## How to Document Your System for Insurance
 
@@ -2089,11 +2099,11 @@ Your battery system cover should be reviewed:
 
 Battery system installations in New Zealand sit within the electrical regulatory framework:
 
-**Electricity Act 1992** — all electrical work (including off-grid solar and battery installation) must comply with electrical safety regulations. Registered electrical work by a licensed electrician is required for grid-connected systems and most significant off-grid installations.
+The Electricity Act 1992 requires all electrical work (including off-grid solar and battery installation) to comply with electrical safety regulations. Registered electrical work by a licensed electrician is required for grid-connected systems and most significant off-grid installations.
 
-**AS/NZS 5139** — the primary technical standard for battery systems installed in buildings, adopted in New Zealand. Published 2019, with New Zealand-specific amendments.
+AS/NZS 5139 is the primary technical standard for battery systems installed in buildings, adopted in New Zealand. Published in 2019, with New Zealand-specific amendments, it covers the relevant ground for residential-scale systems.
 
-**EECA (Energy Efficiency and Conservation Authority)** — provides guidance on home battery systems and has information relevant to consumers selecting and installing battery storage.
+The EECA (Energy Efficiency and Conservation Authority) provides guidance on home battery systems and has information relevant to consumers selecting and installing battery storage.
 
 No New Zealand-specific standard equivalent to the US's NFPA 855 (for large battery installations) currently exists, but AS/NZS 5139 covers the relevant ground for residential-scale systems.
 
@@ -2137,37 +2147,37 @@ But the same features that make rural lifestyle blocks attractive also create in
 
 The differences between insuring a rural lifestyle block tiny home and insuring a tiny home in an urban or campground setting run deeper than just address format:
 
-**Remote access and emergency response times:** In a major city, a fire engine might arrive within five minutes. In a rural area, the nearest Volunteer Fire Brigade may be 20–30 minutes away, and specialist builders and contractors may need to travel hours to reach your property. This affects claim settlement timelines, repair costs, and in the worst case, total loss outcomes that might have been partial losses with faster response.
+In a major city, a fire engine might arrive within five minutes. In a rural area, the nearest Volunteer Fire Brigade may be 20–30 minutes away, and specialist builders and contractors may need to travel hours to reach your property. This affects claim settlement timelines, repair costs, and in the worst case, total loss outcomes that might have been partial losses with faster response.
 
-**No formal address:** Many rural tiny homes are on properties identified by GPS coordinates or lot numbers rather than street addresses. Mainstream insurers' systems often require a street address — creating a barrier that specialist insurers have learned to accommodate.
+Many rural tiny homes are on properties identified by GPS coordinates or lot numbers rather than street addresses. Mainstream insurers' systems often require a street address — creating a barrier that specialist insurers have learned to accommodate.
 
-**Non-consented structures:** Building consents are required for all dwellings, but the enforcement and compliance environment in rural areas has historically been less rigorous than in urban settings. Many rural tiny homes were built without consent — particularly pre-2000 structures and those initially conceived as agricultural buildings or temporary accommodation.
+Building consents are required for all dwellings, but the enforcement and compliance environment in rural areas has historically been less rigorous than in urban settings. Many rural tiny homes were built without consent — particularly pre-2000 structures and those initially conceived as agricultural buildings or temporary accommodation.
 
-**Off-grid systems:** Urban and campground tiny homes often connect to grid power and town water. Rural lifestyle blocks typically rely on solar, rainwater collection, and composting or septic waste systems. Each of these systems needs explicit consideration in the insurance policy.
+Urban and campground tiny homes often connect to grid power and town water. Rural lifestyle blocks typically rely on solar, rainwater collection, and composting or septic waste systems. Each of these systems needs explicit consideration in the insurance policy.
 
-**Multiple structures on one block:** A typical rural lifestyle block might have a main house, a tiny home (perhaps the owner's primary residence, or rented to a family member), a sleepout, a workshop, several sheds, and a water tank. Getting the insurance architecture right across all these structures is important — and often not done well.
+A typical rural lifestyle block might have a main house, a tiny home (perhaps the owner's primary residence, or rented to a family member), a sleepout, a workshop, several sheds, and a water tank. Getting the insurance architecture right across all these structures is important — and often not done well.
 
 ## Common Land Arrangements for Rural Tiny Homes
 
 The type of title you hold over your lifestyle block affects your insurance options in ways that many owners don't anticipate:
 
-**Fee simple freehold** — the most common and most insurer-friendly arrangement. You own the land and any structures on it outright. Standard insurance frameworks apply, modified for rural location and non-standard construction where relevant.
+Fee simple freehold is the most common and most insurer-friendly arrangement — you own the land and any structures on it outright. Standard insurance frameworks apply, modified for rural location and non-standard construction where relevant.
 
-**Māori freehold title** — land held under the Te Ture Whenua Māori Act 1993. Māori freehold land is inalienable (cannot be sold to non-Māori without specific legal processes) and cannot be used as mortgage security in the standard way. This affects how banks and insurers approach the property. Some mainstream insurers are uncomfortable underwriting dwellings on Māori freehold title — specialist brokers who understand this title type are needed.
+Māori freehold title, held under the Te Ture Whenua Māori Act 1993, is inalienable (cannot be sold to non-Māori without specific legal processes) and cannot be used as mortgage security in the standard way. This affects how banks and insurers approach the property, and some mainstream insurers are uncomfortable underwriting dwellings on this title type — specialist brokers who understand it are needed.
 
-**Leasehold from DOC, Māori land trusts, or the Crown** — leasehold lifestyle blocks exist where the leaseholder has long-term rights to occupy and improve the land but doesn't own it. Insurance needs to cover the improvements (the tiny home) without requiring security over the land itself. The lease terms may have implications for what structures can be built and insured.
+Leasehold from DOC, Māori land trusts, or the Crown is another arrangement where the leaseholder has long-term rights to occupy and improve the land but doesn't own it. Insurance needs to cover the improvements (the tiny home) without requiring security over the land itself. The lease terms may have implications for what structures can be built and insured.
 
-**Licence to occupy in a community arrangement** — some alternative community and intentional community settings use licence to occupy arrangements. These are common in eco-village and community land trust contexts. The enforceability of licences and the status of improvements can create insurance complexity.
+A licence to occupy in a community arrangement is common in eco-village and community land trust contexts. The enforceability of licences and the status of improvements can create insurance complexity that specialist brokers are best placed to navigate.
 
 ## Consent Status: The Rural Reality
 
 The consent status of a rural tiny home is one of the first questions a specialist insurer will ask — and the honest answer is more complicated than a simple yes or no.
 
-**The historical picture:** Many structures on New Zealand rural properties were built before the Building Act 2004 tightened consent requirements, or under exemptions that no longer apply. A small sleep-out built in the 1990s as a "garden shed" that has since been converted to habitable use is a very common example.
+Many structures on rural properties were built before the Building Act 2004 tightened consent requirements, or under exemptions that no longer apply. A small sleep-out built in the 1990s as a "garden shed" that has since been converted to habitable use is a very common example.
 
-**The 2026 exemption:** The building code changes that came into effect in 2026 allow residential structures under 70m² to be built without a building consent on properties where the owner also has a consented house. This has legitimised many future builds — but it doesn't retrospectively consent existing structures.
+The building code changes that came into effect in 2026 allow residential structures under 70m² to be built without a building consent on properties where the owner also has a consented house. This has legitimised many future builds — but it doesn't retrospectively consent existing structures.
 
-**What non-consent means for insurance:** Non-consented status doesn't automatically make a structure uninsurable. Many specialist insurers will underwrite non-consented rural structures, particularly older ones where the structure has proven its integrity over time. The key factors are:
+Non-consented status doesn't automatically make a structure uninsurable. Many specialist insurers will underwrite non-consented rural structures, particularly older ones where the structure has proven its integrity over time. The key factors are:
 - **Age and build quality** — an older non-consented structure that has stood for 20+ years without problems is a different risk from a recently built non-compliant structure
 - **Construction materials** — standard timber framing on a concrete pile foundation insured as "non-standard" is different from unconventional materials that present unknown durability questions
 - **The dwelling's occupation status** — is it the owner's primary residence? A rental? Occasional use? Full-time occupation demonstrates the structure is functional and habitable
@@ -2178,27 +2188,27 @@ Importantly: **the sum insured should reflect rebuild cost, not the existence or
 
 Rural New Zealand's hazard profile varies dramatically by location. Understanding your specific hazard environment is important for both your insurance and your preparedness:
 
-**Flooding:** River valley and low-lying rural properties face significant flood risk. The Waikato, Manawatu, Hawke's Bay, and Canterbury plains all have river systems capable of major flooding events. The 2023 Cyclone Gabrielle was a stark reminder of rural flood vulnerability. Key considerations: is your block within a known flood plain? Is your tiny home positioned above flood level? Is access maintained during flood events?
+River valley and low-lying rural properties face significant flood risk. The Waikato, Manawatu, Hawke's Bay, and Canterbury plains all have river systems capable of major flooding events. Cyclone Gabrielle in 2023 was a stark reminder of rural flood vulnerability. Key considerations: is your block within a known flood plain? Is your tiny home positioned above flood level? Is access maintained during flood events?
 
-**Landslip:** Steep pastoral and native bush land — particularly in the hill country of the Waikato, Bay of Plenty, Hawke's Bay, and the Wellington region — faces significant landslip risk, especially after heavy rain. The Earthquake Commission's (now Toka Tū Ake EQC) Natural Hazard Insurance (NHI) covers landslip damage to residential land and buildings for eligible properties.
+Steep pastoral and native bush land — particularly in the hill country of the Waikato, Bay of Plenty, Hawke's Bay, and the Wellington region — faces significant landslip risk, especially after heavy rain. The Earthquake Commission's (now Toka Tū Ake EQC) Natural Hazard Insurance (NHI) covers landslip damage to residential land and buildings for eligible properties.
 
-**Fire:** Rural fire risk is significant and increasing with drier summers and longer fire seasons. A lifestyle block in Marlborough, Hawke's Bay, or Canterbury during a summer drought faces real fire risk from both grass fires on the block and from the wider rural landscape. Key risk factors for insurers include: the amount of dry fuel (long grass, brush) around the structure, access for firefighting vehicles, on-site water supply for fire suppression, and distance to the nearest fire brigade.
+Rural fire risk is significant and increasing with drier summers and longer fire seasons. A lifestyle block in Marlborough, Hawke's Bay, or Canterbury during a summer drought faces real fire risk from both grass fires on the block and from the wider rural landscape. Key risk factors for insurers include the amount of dry fuel (long grass, brush) around the structure, access for firefighting vehicles, on-site water supply for fire suppression, and distance to the nearest fire brigade.
 
-**Earthquake:** Risk varies enormously by region. The Wellington, Hawke's Bay, and Marlborough regions face higher seismic risk than most of the South Island's west coast or Northland. For tiny homes without conventional foundations, the earthquake risk profile is different — in some ways more resilient (a structure that can move is less likely to be catastrophically damaged by ground movement than a rigid masonry structure) and in other ways more vulnerable (a THOW that overturns or slides on its site).
+Earthquake risk varies enormously by region. The Wellington, Hawke's Bay, and Marlborough regions face higher seismic risk than most of the South Island's west coast or Northland. For tiny homes without conventional foundations, the earthquake risk profile is different — in some ways more resilient (a structure that can move is less likely to be catastrophically damaged by ground movement than a rigid masonry structure) and in other ways more vulnerable (a THOW that overturns or slides on its site).
 
-**NHI Act coverage:** The Natural Hazards Insurance Act 2023 (which replaced the Earthquake Commission Act) covers eligible residential properties for natural hazard damage. Rural tiny homes may or may not be eligible — the property must have a residential building covered by a private insurance policy. Discuss EQC coverage eligibility with your adviser.
+The Natural Hazards Insurance Act 2023 (which replaced the Earthquake Commission Act) covers eligible residential properties for natural hazard damage. Rural tiny homes may or may not be eligible — the property must have a residential building covered by a private insurance policy. Discuss EQC coverage eligibility with your adviser.
 
 ## Fire Risk and Rural Tiny Homes: A Closer Look
 
 Rural fire deserves specific attention because it's both a significant risk and one where the owner has meaningful ability to reduce exposure:
 
-**Vegetation clearance:** The single most effective fire risk reduction measure is maintaining adequate clearance around your home. Best practice is **10m of cleared, low-fuel zone** around the structure — no long grass, no woodpiles, no dry brush. Some insurers specifically ask about vegetation clearance distances and may have conditions around maintaining them.
+The single most effective fire risk reduction measure is maintaining adequate clearance around your home. Best practice is **10m of cleared, low-fuel zone** around the structure — no long grass, no woodpiles, no dry brush. Some insurers specifically ask about vegetation clearance distances and may have conditions around maintaining them.
 
-**Access for fire trucks:** In the worst case, can a rural fire brigade tanker actually reach your property? Gate width (minimum 3m clear), road surface (can a heavy tanker navigate it in wet conditions?), and bridge rating (can the tanker cross?) all matter. Some rural properties are effectively inaccessible to fire vehicles — this affects both risk and insurer appetite.
+In the worst case, can a rural fire brigade tanker actually reach your property? Gate width (minimum 3m clear), road surface (can a heavy tanker navigate it in wet conditions?), and bridge rating (can the tanker cross?) all matter. Some rural properties are effectively inaccessible to fire vehicles — this affects both risk and insurer appetite.
 
-**On-site water supply:** Rural areas don't have hydrants. A firefighting water tank (minimum 10,000 litres, ideally positioned near the structure and accessible to a pump) is considered best practice for rural fire preparedness. The presence of adequate on-site water supply is a material positive for insurance purposes.
+Rural areas don't have hydrants. A firefighting water tank (minimum 10,000 litres, ideally positioned near the structure and accessible to a pump) is considered best practice for rural fire preparedness. The presence of adequate on-site water supply is a material positive for insurance purposes.
 
-**Rural fire season conditions:** During declared fire season, rural residents have obligations to notify the appropriate authority before lighting fires, and must maintain suppression equipment. Being a compliant, responsible rural fire citizen is reflected in your insurance profile.
+During declared fire season, rural residents have obligations to notify the appropriate authority before lighting fires, and must maintain suppression equipment. Being a compliant, responsible rural fire citizen is reflected in your insurance profile.
 
 ## Getting Insured Without a Formal Address
 
@@ -2215,15 +2225,25 @@ Mainstream insurers struggle with these alternatives; specialist rural and tiny 
 
 A rural lifestyle block commonly has multiple structures, and getting the insurance architecture right across all of them matters:
 
-**Main house (if present):** Insured under a standard (or rural) home insurance policy. If the main house is a conventional dwelling, mainstream insurers may be appropriate.
+### Main house (if present)
 
-**Primary tiny home:** If the tiny home is your primary residence (especially if there's no main house), it needs comprehensive building and contents cover as a primary dwelling. This requires specialist tiny home insurance.
+Insured under a standard (or rural) home insurance policy. If the main house is a conventional dwelling, mainstream insurers may be appropriate.
 
-**Rental tiny home or sleepout:** A structure rented to a tenant — even a family member — changes the insurance picture. This is a **landlord insurance** situation, with different cover requirements (loss of rent, tenant damage, landlord liability) from owner-occupier insurance. Insuring a rented structure on an owner-occupier policy creates risk of claim decline.
+### Primary tiny home
 
-**Workshop, shed, and outbuildings:** Farm buildings and rural sheds are typically covered under a rural/farm policy as agricultural outbuildings. Check whether your tiny home policy or rural policy covers these, and ensure there's no gap.
+If the tiny home is your primary residence (especially if there's no main house), it needs comprehensive building and contents cover as a primary dwelling. This requires specialist tiny home insurance.
 
-**Water tanks and infrastructure:** Rainwater collection tanks, pump systems, septic tanks, and solar water heating systems all represent value that should be explicitly covered. Check sub-limits.
+### Rental tiny home or sleepout
+
+A structure rented to a tenant — even a family member — changes the insurance picture. This is a **landlord insurance** situation, with different cover requirements (loss of rent, tenant damage, landlord liability) from owner-occupier insurance. Insuring a rented structure on an owner-occupier policy creates risk of claim decline.
+
+### Workshop, shed, and outbuildings
+
+Farm buildings and rural sheds are typically covered under a rural/farm policy as agricultural outbuildings. Check whether your tiny home policy or rural policy covers these, and ensure there's no gap.
+
+### Water tanks and infrastructure
+
+Rainwater collection tanks, pump systems, septic tanks, and solar water heating systems all represent value that should be explicitly covered. Check sub-limits.
 
 ## Frequently Asked Questions
 
