@@ -14,9 +14,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const ct = coverageTypes.find(c => c.slug === slug);
   if (!ct) return {};
+  // Shorten "Loss of Use / Alternative Accommodation" which is too long for title tag
+  const displayTitle = slug === 'loss-of-use'
+    ? 'Loss of Use Cover for Tiny Homes NZ | TinyHomeInsurance.co.nz'
+    : `${ct.name} NZ | TinyHomeInsurance.co.nz`;
   return {
-    title: `${ct.name} for Tiny Homes NZ | TinyHomeInsurance.co.nz`,
+    title: displayTitle,
     description: ct.shortDesc,
+    alternates: { canonical: `https://www.tinyhomeinsurance.co.nz/coverage/${slug}/` },
   };
 }
 

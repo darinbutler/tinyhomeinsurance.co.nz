@@ -2,6 +2,7 @@ import { SITE } from '../../data/site';
 
 export const metadata = {
   title: 'Disclaimer | TinyHomeInsurance.co.nz',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/disclaimer/' },
 };
 
 export default function DisclaimerPage() {

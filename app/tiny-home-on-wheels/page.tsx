@@ -3,8 +3,9 @@ import QuoteForm from '../../components/QuoteForm';
 import { SITE } from '../../data/site';
 
 export const metadata = {
-  title: 'Tiny Home on Wheels Insurance NZ | THOW Specialist Cover | TinyHomeInsurance.co.nz',
-  description: 'Specialist insurance for tiny homes on wheels (THOW) in New Zealand. Building, transit, liability and contents cover for THOWs parked or in motion. Get advice from NZ advisers.',
+  title: 'Tiny Home on Wheels Insurance NZ | TinyHomeInsurance.co.nz',
+  description: 'Specialist insurance for tiny homes on wheels (THOW) in NZ. Building, transit, liability and contents cover for THOWs parked or in motion. NZ-licensed advisers.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/tiny-home-on-wheels/' },
 };
 
 const faqs = [

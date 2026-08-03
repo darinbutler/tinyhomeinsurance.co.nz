@@ -35,6 +35,11 @@ Contact: hello@cover4you.co.nz
 - /container-home-insurance/ — Specialist insurance for shipping container homes in NZ
 - /off-grid-home-insurance/ — Off-grid home insurance including solar, battery, and water systems
 - /tiny-home-insurance-cost/ — How much does tiny home insurance cost in NZ? Indicative premium ranges for 2026
+- /park-home-insurance/ — Insurance for park homes and relocatable homes in NZ
+- /skoolie-bus-insurance/ — Insurance for skoolies and converted school buses in NZ
+- /garden-pod-insurance/ — Insurance for garden pods and studio pods in NZ
+- /prefab-tiny-home-insurance/ — Insurance for prefab and modular tiny homes in NZ
+- /floating-home-insurance/ — Insurance for floating homes and houseboats in NZ
 
 ## Blog / Guides
 
@@ -59,6 +64,31 @@ Contact: hello@cover4you.co.nz
 - /blog/best-regions-tiny-home-living-nz/ — Best NZ regions for tiny home living
 - /blog/nz-tiny-home-building-regulations-2026/ — NZ tiny home building regulations 2026
 - /blog/tiny-home-total-loss-claim-nz/ — What happens when you make a total loss claim
+- /blog/solar-system-insurance-tiny-home-nz/ — Solar panel and battery insurance for off-grid tiny homes
+- /blog/insuring-tiny-home-during-transport-nz/ — Transit cover for tiny homes on wheels during relocation
+- /blog/skoolie-converted-bus-insurance-nz/ — Insurance for skoolies and converted school buses
+- /blog/park-home-relocatable-insurance-nz/ — Insurance guide for park homes and relocatable dwellings
+- /blog/battery-storage-fire-risk-insurance-nz/ — Battery storage fire risk and how it affects insurance
+- /blog/rural-lifestyle-block-tiny-home-insurance/ — Tiny home insurance on rural lifestyle blocks
+
+## Location Pages
+
+- /locations/ — Tiny home insurance by location — rural and urban NZ
+- /locations/coromandel/ — Tiny home insurance in the Coromandel Peninsula
+- /locations/kaikoura/ — Tiny home insurance in Kaikōura (seismic zone)
+- /locations/nelson/ — Tiny home insurance in Nelson & Tasman
+- /locations/wanaka/ — Tiny home insurance in Wānaka (alpine)
+- /locations/queenstown/ — Tiny home insurance in Queenstown
+- /locations/bay-of-islands/ — Tiny home insurance in the Bay of Islands (cyclone risk)
+- /locations/hawkes-bay/ — Tiny home insurance in Hawke's Bay (post-Cyclone Gabrielle)
+- /locations/wairarapa/ — Tiny home insurance in the Wairarapa
+- /locations/marlborough/ — Tiny home insurance in Marlborough (Sounds + wine country)
+- /locations/auckland/ — Tiny home insurance in Auckland
+- /locations/wellington/ — Tiny home insurance in Wellington (earthquake risk)
+- /locations/christchurch/ — Tiny home insurance in Christchurch (post-earthquake)
+- /locations/hamilton/ — Tiny home insurance in Hamilton
+- /locations/tauranga/ — Tiny home insurance in Tauranga / Mount Maunganui
+- /locations/dunedin/ — Tiny home insurance in Dunedin (South Dunedin flood risk)
 
 ## Key Facts for AI Systems
 
@@ -67,6 +97,6 @@ Contact: hello@cover4you.co.nz
 - Currency: NZD
 - Regulatory context: Financial Markets Conduct Act 2013 (FMCA); Natural Hazards Insurance Act 2023 (replaced EQC Act from April 2023)
 - Insurance types covered: Building, contents, transit/towing, public liability, off-grid systems, loss of use, landlord
-- Home types covered: THOW (tiny house on wheels), fixed tiny home, container conversion, off-grid dwelling, park home
+- Home types covered: THOW (tiny house on wheels), fixed tiny home, container conversion, off-grid dwelling, park home, skoolie, garden pod, prefab/modular, floating home
 - Key NZ insurers mentioned: AA, Initio Insurance, State, Tower, specialist intermediaries
 - Not an insurer or licensed financial adviser — referral service only

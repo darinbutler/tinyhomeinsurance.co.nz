@@ -4,8 +4,9 @@ import { coverageTypes } from '../data/coverage-types';
 import { SITE } from '../data/site';
 
 export const metadata = {
-  title: 'Tiny Home Insurance NZ — Specialist Cover for Tiny Homes, Containers & Off-Grid Dwellings',
-  description: 'We compare insurers and find you the best suited policy for your tiny home in New Zealand. Building, contents, transit, and liability cover for tiny houses on wheels, container homes, and off-grid dwellings.',
+  title: 'Tiny Home Insurance NZ | THOWs, Containers & Off-Grid Cover',
+  description: 'We compare insurers and connect you with the right cover for your tiny home — THOWs, container homes, and off-grid dwellings. NZ-licensed advisers respond within one business day.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/' },
 };
 
 const lifestyleTypes = [
@@ -163,7 +164,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 divide-x divide-stone-100">
             {[
-              { icon: '🏅', label: 'NZ-Licensed Advisers', sub: 'Regulated under the FMCA' },
+              { icon: '🏅', label: 'NZ-Licensed Advisers', sub: 'Referred advisers are FMCA-licensed' },
               { icon: '⚡', label: 'Fast Response', sub: 'One trusted specialist provider' },
               { icon: '🚛', label: 'Wheels, Containers & Off-Grid', sub: 'All tiny home types covered' },
               { icon: '🔒', label: 'No Obligation', sub: 'Compare and decide at your pace' },

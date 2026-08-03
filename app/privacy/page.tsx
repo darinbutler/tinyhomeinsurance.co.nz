@@ -2,6 +2,7 @@ import { SITE } from '../../data/site';
 
 export const metadata = {
   title: 'Privacy Policy | TinyHomeInsurance.co.nz',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/privacy/' },
 };
 
 export default function PrivacyPage() {

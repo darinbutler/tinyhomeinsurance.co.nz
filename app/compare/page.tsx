@@ -2,8 +2,9 @@ import Link from 'next/link';
 import QuoteForm from '../../components/QuoteForm';
 
 export const metadata = {
-  title: 'NZ Tiny Home Insurer Comparison — AA vs Initio vs Specialist | TinyHomeInsurance.co.nz',
-  description: 'Compare NZ insurer positions on tiny home cover. AA Insurance, Initio, State, Tower and specialist insurers — who will actually cover your tiny home on wheels, container home, or off-grid dwelling?',
+  title: 'Tiny Home Insurer Comparison NZ | TinyHomeInsurance.co.nz',
+  description: 'Compare NZ insurer positions on tiny home cover. AA, Initio, State, Tower and specialist insurers — who will actually cover your THOW, container home, or off-grid dwelling?',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/compare/' },
 };
 
 type CellVal = boolean | 'partial';

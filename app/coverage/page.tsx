@@ -4,6 +4,7 @@ import { coverageTypes } from '../../data/coverage-types';
 export const metadata = {
   title: 'Tiny Home Insurance Coverage Types | TinyHomeInsurance.co.nz',
   description: 'Explore all coverage types for tiny homes in NZ — building, contents, transit, liability, off-grid systems, and landlord insurance.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/coverage/' },
 };
 
 export default function CoveragePage() {

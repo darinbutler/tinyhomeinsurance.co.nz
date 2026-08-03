@@ -1,8 +1,9 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'About TinyHomeInsurance.co.nz — Specialist NZ Tiny Home Insurance Advisers',
+  title: 'About TinyHomeInsurance.co.nz | NZ Tiny Home Insurance Advisers',
   description: 'TinyHomeInsurance.co.nz connects tiny home owners with NZ-licensed insurance advisers who specialise in THOWs, container homes, and off-grid dwellings.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/about/' },
 };
 
 export default function AboutPage() {

@@ -2,8 +2,9 @@ import Link from 'next/link';
 import QuoteForm from '../../components/QuoteForm';
 
 export const metadata = {
-  title: 'Tiny Home Insurance Cost NZ 2026 | How Much Does THOW Insurance Cost? | TinyHomeInsurance.co.nz',
-  description: 'How much does tiny home insurance cost in New Zealand? Indicative premium ranges, what affects your price, and how to get the right cover without overpaying. Updated 2026.',
+  title: 'Tiny Home Insurance Cost NZ 2026 | TinyHomeInsurance.co.nz',
+  description: 'How much does tiny home insurance cost in New Zealand? Indicative premium ranges, what affects your price, and how to get the right cover without overpaying.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/tiny-home-insurance-cost/' },
 };
 
 const costFactors = [

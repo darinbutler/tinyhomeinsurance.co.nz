@@ -2,8 +2,9 @@ import Link from 'next/link';
 import QuoteForm from '../../components/QuoteForm';
 
 export const metadata = {
-  title: 'Off-Grid Home Insurance NZ | Off-Grid Tiny Home Cover | TinyHomeInsurance.co.nz',
-  description: 'Specialist insurance for off-grid homes and tiny homes in New Zealand. Cover for solar panels, battery systems, rainwater infrastructure, and remote rural properties. NZ adviser advice.',
+  title: 'Off-Grid Home Insurance NZ | TinyHomeInsurance.co.nz',
+  description: 'Specialist insurance for off-grid homes and tiny homes in New Zealand. Cover for solar panels, battery systems, rainwater infrastructure, and remote rural properties.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/off-grid-home-insurance/' },
 };
 
 const systemsCovered = [

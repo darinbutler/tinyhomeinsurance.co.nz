@@ -3,9 +3,9 @@ import { SITE } from '../../data/site';
 import FAQContent from '../../components/FAQContent';
 
 export const metadata = {
-  title: 'Tiny Home Insurance FAQs | Common Questions Answered | TinyHomeInsurance.co.nz',
+  title: 'Tiny Home Insurance FAQs | TinyHomeInsurance.co.nz',
   description: 'Answers to the most common questions about insuring tiny homes, THOWs, container homes, and off-grid dwellings in New Zealand. NZ specialist adviser Q&A.',
-  alternates: { canonical: '/faq/' },
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/faq/' },
 };
 
 export default function FAQPage() {

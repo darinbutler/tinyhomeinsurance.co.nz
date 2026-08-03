@@ -4,6 +4,7 @@ import { blogPosts } from '../../data/blog-posts';
 export const metadata = {
   title: 'Tiny Home Insurance Blog & Guides | TinyHomeInsurance.co.nz',
   description: 'Expert guides on tiny home insurance in NZ — covering tiny houses on wheels, off-grid living, container homes, and more.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/blog/' },
 };
 
 const categoryColours: Record<string, string> = {

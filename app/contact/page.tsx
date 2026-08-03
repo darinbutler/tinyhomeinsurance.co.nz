@@ -4,6 +4,7 @@ import ContactForm from '../../components/ContactForm';
 export const metadata = {
   title: 'Get a Tiny Home Insurance Quote | TinyHomeInsurance.co.nz',
   description: 'Request a quote for tiny home insurance in New Zealand. NZ-licensed advisers respond within one business day.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/contact/' },
 };
 
 export default function ContactPage() {

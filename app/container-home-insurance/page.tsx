@@ -3,8 +3,9 @@ import QuoteForm from '../../components/QuoteForm';
 import { SITE } from '../../data/site';
 
 export const metadata = {
-  title: 'Container Home Insurance NZ | Shipping Container House Cover | TinyHomeInsurance.co.nz',
-  description: 'Specialist insurance for shipping container homes in New Zealand. Cover for single and multi-container conversions, off-grid container homes, and container sleepouts. NZ adviser advice.',
+  title: 'Container Home Insurance NZ | TinyHomeInsurance.co.nz',
+  description: 'Specialist insurance for shipping container homes in New Zealand. Cover for single and multi-container conversions, off-grid container homes, and container sleepouts.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/container-home-insurance/' },
 };
 
 const faqs = [

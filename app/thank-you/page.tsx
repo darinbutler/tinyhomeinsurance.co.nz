@@ -3,6 +3,7 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Thank You — Quote Request Received | TinyHomeInsurance.co.nz',
   description: 'Your tiny home insurance quote request has been received. A NZ-licensed adviser will be in touch within one business day.',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/thank-you/' },
 };
 
 export default function ThankYouPage() {

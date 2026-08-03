@@ -47,6 +47,39 @@
   <url><loc>https://www.tinyhomeinsurance.co.nz/blog/nz-tiny-home-building-regulations-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.tinyhomeinsurance.co.nz/blog/tiny-home-total-loss-claim-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
+  <!-- Tiny Home Type Landing Pages -->
+  <url><loc>https://www.tinyhomeinsurance.co.nz/park-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/skoolie-bus-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/garden-pod-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/prefab-tiny-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/floating-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Location Pages -->
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/coromandel/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/kaikoura/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/nelson/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/wanaka/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/queenstown/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/bay-of-islands/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/hawkes-bay/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/wairarapa/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/marlborough/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/auckland/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/wellington/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/christchurch/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/hamilton/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/tauranga/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/locations/dunedin/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Blog Posts (August 2026) -->
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/solar-system-insurance-tiny-home-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/insuring-tiny-home-during-transport-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/skoolie-converted-bus-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/park-home-relocatable-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/battery-storage-fire-risk-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tinyhomeinsurance.co.nz/blog/rural-lifestyle-block-tiny-home-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
   <!-- Legal -->
   <url><loc>https://www.tinyhomeinsurance.co.nz/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://www.tinyhomeinsurance.co.nz/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>

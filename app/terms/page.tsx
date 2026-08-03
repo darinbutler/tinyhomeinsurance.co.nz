@@ -2,6 +2,7 @@ import { SITE } from '../../data/site';
 
 export const metadata = {
   title: 'Terms of Use | TinyHomeInsurance.co.nz',
+  alternates: { canonical: 'https://www.tinyhomeinsurance.co.nz/terms/' },
 };
 
 export default function TermsPage() {
