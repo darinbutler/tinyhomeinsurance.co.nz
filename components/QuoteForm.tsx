@@ -124,7 +124,7 @@ export default function QuoteForm({ variant = 'compact' }: QuoteFormProps) {
                 </div>
                 <div>
                   <label className="block text-sm font-semibold text-gray-900 mb-1">Phone</label>
-                  <input type="tel" name="phone" required placeholder="09 XXX XXXX"
+                  <input type="tel" pattern="[+]?[0-9\s\-().]{6,}" title="Please enter a valid phone number" minLength={6} name="phone" required placeholder="09 XXX XXXX"
                     className="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-600 focus:border-transparent" />
                 </div>
                 <div>
@@ -176,7 +176,7 @@ export default function QuoteForm({ variant = 'compact' }: QuoteFormProps) {
         </div>
         <div>
           <label className="block text-xs font-semibold text-stone-300 mb-1">Phone</label>
-          <input type="tel" name="phone" required placeholder="09 XXX XXXX"
+          <input type="tel" pattern="[+]?[0-9\s\-().]{6,}" title="Please enter a valid phone number" minLength={6} name="phone" required placeholder="09 XXX XXXX"
             className="w-full px-3 py-2.5 bg-stone-700 border border-stone-600 rounded-lg text-white text-sm placeholder-stone-500 focus:ring-2 focus:ring-green-500 focus:border-transparent" />
         </div>
         <div>
